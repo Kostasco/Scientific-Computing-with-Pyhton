@@ -59,7 +59,7 @@ Percentage spent by category
 
 The unit tests for this project are in `test_module.py`.
 
-###Development
+### Development
 
 Write your code in `budget.py`. For development, you can use `main.py` to test your Category class. Click the `"run"` button and `main.py` will run.
 
@@ -67,7 +67,7 @@ Write your code in `budget.py`. For development, you can use `main.py` to test y
 
 We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the `"run"` button.
 
-###Links 
+### Links 
 
 [FreeCodeCamp - Budget App](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
 
