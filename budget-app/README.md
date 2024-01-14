@@ -4,4 +4,4 @@ This is the boilerplate for the Budget App project. Instructions for building yo
 
 [Submitted Project](https://replit.com/@konkokkinoris?path=)
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+[FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
