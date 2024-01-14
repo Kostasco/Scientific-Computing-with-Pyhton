@@ -1,4 +1,4 @@
-# Budget App
+# Budget App - Project Description
 
 This is the boilerplate for the Budget App project. Instructions for building your project can be found at: 
 
