@@ -69,7 +69,6 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 
 ### Links 
 
-[FreeCodeCamp - Budget App](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
-
 [Submitted Project](https://replit.com/@konkokkinoris?path=)
 
+[FreeCodeCamp - Budget App](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
