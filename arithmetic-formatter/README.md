@@ -69,6 +69,6 @@ The unit tests for this project are in `test_module.py`. We are running the test
 ### Links
 [Instructions](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
-[Submitted Project - Arithmetic Formatter](https://replit.com/@konkokkinoris?path=)
+[Submitted Project](https://replit.com/@konkokkinoris?path=)
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+[FreeCodeCamp - Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
