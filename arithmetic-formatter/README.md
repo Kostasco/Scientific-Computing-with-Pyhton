@@ -68,7 +68,6 @@ The unit tests for this project are in `test_module.py`. We are running the test
 
 ### My submitted project link
 <!-- -->
-[Submitted Project]([https://replit.com/@konkokkinoris/arithmetic-formatter](https://replit.com/@konkokkinoris?path=))
-
+[Submitted Project](https://replit.com/@konkokkinoris?path=)
 <!-- -->
 [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
